@@ -42,3 +42,5 @@ Boom.
 ## Fat version
 
 To build the fat version, change all the iron/node bits to node:argon.
+
+should initiate docker build
